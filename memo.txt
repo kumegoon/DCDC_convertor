@@ -1,0 +1,19 @@
+MC34063
+NJM2360M
+
+pin
+1 switch collector
+2 switch emitter
+3 timing capacitor(CT)
+   charge 20 35 50 uA
+   discharge 150 200 250 uA
+   Vce1 ~1.3V
+   Vce2 ~0.7V
+4 GND
+5 comparator inverting input *Vref INP is 1.25V
+    Vref 1.18 1.25 1.32V
+6 V+
+7 Ipk sense
+   ilimit typ 0.3V 0.25V to 0.35V
+8 drive colector
+
