@@ -1,25 +1,25 @@
-Circuit: * Z:\home\kume\LTspiceXVII\work\step_down_convertor_NJM2360M\NJM2360M.asc
+Circuit: * C:\Users\10001161562\Documents\LTspiceXVII\DCDC\NJM2360M\DCDC_convertor\NJM2360M.asc
 
 u1:v7: Missing value, assumed 0V @ DC
 Direct Newton iteration for .op point succeeded.
-Heightened Def Con from 0.000105007 +++++++++to 0.000105007
-Heightened Def Con from 0.000105007 to 0.000105007
-Heightened Def Con from 0.000105007 +++++++++++++++++++++++++++to 0.000105013
+Heightened Def Con from 0.000101007 +++++++++++++++++++++++++++to 0.000101011
+Heightened Def Con from 0.0107502 to 0.0107502
+Heightened Def Con from 0.0430073 to 0.0430073
 
-Date: Sun Aug 29 23:57:56 2021
-Total elapsed time: 41.192 seconds.
+Date: Mon Aug 30 14:21:52 2021
+Total elapsed time: 31.502 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 2196460
-traniter = 2196443
-tranpoints = 611714
-accept = 482332
-rejected = 129421
+totiter = 4259789
+traniter = 4259772
+tranpoints = 1217899
+accept = 912242
+rejected = 305687
 matrix size = 44
 fillins = 37
 solver = Normal
-Matrix Compiler1: 3.70 KB object code size  2.2/1.6/[0.7]
-Matrix Compiler2: 3.76 KB object code size  0.8/16.4/[0.8]
+Matrix Compiler1: 3.70 KB object code size  0.7/0.4/[0.2]
+Matrix Compiler2: 3.76 KB object code size  0.3/0.4/[0.2]
 
