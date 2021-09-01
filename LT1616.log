@@ -1,0 +1,21 @@
+Circuit: * Z:\home\kume\LTspiceXVII\work\step_down_convertor_NJM2360M\LT1616.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Aug 30 23:35:00 2021
+Total elapsed time: 102.804 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6383251
+traniter = 6383237
+tranpoints = 2202028
+accept = 1898805
+rejected = 303223
+matrix size = 24
+fillins = 5
+solver = Normal
+Matrix Compiler1: 1.22 KB object code size  0.8/0.7/[0.4]
+Matrix Compiler2: 1.70 KB object code size  0.6/0.7/[0.5]
+
